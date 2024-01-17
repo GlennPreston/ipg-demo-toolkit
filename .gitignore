@@ -1,0 +1,5 @@
+# Logs for transaction result calls
+logs/
+
+# User configs
+config/users

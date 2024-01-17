@@ -1,1 +1,1 @@
-# ipg-demo-toolkit
+# IPG-Demo-Toolkit
